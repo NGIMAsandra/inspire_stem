@@ -1,3 +1,7 @@
+#this is the program for arithmetic progression
+#date: 20/2/2024
+#name :sandra
+
 #the nth term
 a = float(input("Enter the first term"))
 d = float(input("Enter the common difference"))

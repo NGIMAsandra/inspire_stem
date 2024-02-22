@@ -1,3 +1,7 @@
+#this is a program for geometric progression
+#date: 20/2/2024
+#name :sandra
+
 #the nth term
 a = int(input("Enter the value of a: "))
 r = int(input("Enter the value of r: "))

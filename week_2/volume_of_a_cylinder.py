@@ -4,8 +4,8 @@
 
 radius =float(input ("Enter the radius of the cylinder:"))
 height = float(input ("Enter the height of the cylinder:"))
-pie = float (3.142)
+pi = float (3.142)
 
-volume =float(pie * radius * radius * height)
+volume =float(pi * radius * radius * height)
 
 print(" The volume of the cylinder is :",volume)
