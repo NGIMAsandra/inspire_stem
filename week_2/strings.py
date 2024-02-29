@@ -32,8 +32,7 @@ print(town.strip())
 f_name= "Sandra"
 s_name= "Ngima"
 full_name = f_name + s_name
-print (full_name)
-
+print(full_name)
 
 #replacing strings
 fruit="orange"
@@ -45,3 +44,18 @@ print(subject.split(","))
 age = 30
 height = 1.2
 print("I am {0} years old and {1} meters tall" .format(age , height))
+
+activity = "dancing"
+print("my hobby is %s" %(activity))#printing a string
+name = "Sandra"
+print(len(name))
+
+
+height = 1.23345
+print("my height is %5.4f " %(height))#printing a float
+
+age = 22
+print("my height is %5.4d " %(age)) #printing a 
+
+
+print ("I am studying {course} in the school of {school}". format(course = "Electrical",school = "Engineering"))
