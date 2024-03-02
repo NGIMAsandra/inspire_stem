@@ -2,7 +2,7 @@
 #date: 20/2/2024
 #name :sandra
 
-radius =float(input ("Enter the radius of the cylinder:"))
+radius =float(input ("Enter the radius of the sphere:"))
 pi = float (3.142)
 
 volume =float (4 / 3 * pi* radius**3 )
