@@ -1,0 +1,22 @@
+section{
+    background-color: bisque;
+    color: black;
+    margin: 100px;
+}
+img{width: 8cm;
+    height: 3cm;
+}
+.header-1{
+    color: brown;
+}
+.ball{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+}
+#bouncing{
+    position: absolute;
+}
+body{
+
+}

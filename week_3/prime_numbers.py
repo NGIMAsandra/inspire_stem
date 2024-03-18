@@ -1,3 +1,7 @@
+#this is a program to print all prime numbers between 1-99
+#date :29/2/2024
+#name : SandraNgima
+
 lower_value = int(input ("Please, Enter the Lowest Range Value: "))
 upper_value = int(input ("Please, Enter the Upper Range Value: "))
 

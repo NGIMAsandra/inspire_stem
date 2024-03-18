@@ -1,3 +1,7 @@
+#this is a function to all squares & cubes between 1-10
+#date :29/2/2024
+#name : SandraNgima
+
 numbers = []
 squares = []
 cubes = []
